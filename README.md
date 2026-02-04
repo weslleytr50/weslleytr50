@@ -16,4 +16,5 @@ Atualmente estou em constante evolução, estudando e aprimorando meus conhecime
 ### 🚀 Objetivo
 Busco minha primeira oportunidade como **Desenvolvedor Backend Júnior**, onde eu possa crescer tecnicamente, aprender com profissionais mais experientes e contribuir com soluções eficientes.
 
-📫 GitHub: https://github.com/weslleytr50
+🔗 LinkedIn: https://www.linkedin.com/in/weslley-diasdev
+
